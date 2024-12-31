@@ -3,7 +3,7 @@
 
 ## 📥・Instalacja
 ```sh
-git clone https:
+git clone https://github.com/shipurjan/config-cs2 "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\cfg"
 ```
 
 ## Launch options
